@@ -150,10 +150,17 @@ color: white;
   border-radius: 0.5em;
 }
 
+.banner {
+  width: 100%;
+  overflow: hidden;
+  margin: auto;
+}
+
 #banner {
   width: 1100px;
   display: block;
   margin: auto;
+  overflow: hidden;
 }
 
 #familia {
